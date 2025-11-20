@@ -1,0 +1,12 @@
+librosa==0.10.3
+moviepy==1.0.3
+whisper==20230314
+yt-dlp==2025.11.1
+pydub==0.25.1
+gradio==3.43.0
+Pillow==10.1.0
+numpy==1.26.2
+scipy==1.11.1
+matplotlib==3.8.1
+soundfile==0.12.1
+ffmpeg-python==0.2.1
